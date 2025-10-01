@@ -33,10 +33,12 @@
 ## 📸 Скриншоты
 
 ### 💻 Главный экран (ПК версия)
-![Desktop Screenshot](https://github.com/91Helen/Psychologist-landing-page/blob/main/Main%20screen.png?raw=true)
+
+<img src="https://github.com/91Helen/Psychologist-landing-page/blob/main/Main%20screen.png?raw=true" width="400" alt="Desktop Screenshot">
 
 ### 📱 Мобильная версия
-![Mobile Screenshot](screenshots/mobile-main.png)
+<img src="https://github.com/91Helen/Psychologist-landing-page/blob/main/Mobile%20screen.png?raw=true" width="200" alt="Mobile Screenshot">
+
 
 ---
 
@@ -46,3 +48,19 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/your-username/project-name.git
+   ```
+   
+ 2.  Перейдите в папку проекта:
+   ```bash
+cd project-name
+```
+
+3. Запустите локально:
+
+Откройте index.html напрямую в браузере.
+
+Или используйте Live Server в VS Code для удобной разработки
+
+## ✨ Автор
+
+С ❤️ Front-end разработчик  **Елена Филатова**  
