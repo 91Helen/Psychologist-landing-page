@@ -33,7 +33,7 @@
 ## 📸 Скриншоты
 
 ### 💻 Главный экран (ПК версия)
-![Desktop Screenshot](screenshots/desktop-main.png)
+![Desktop Screenshot](https://github.com/91Helen/Psychologist-landing-page/blob/main/Main%20screen.png?raw=true)
 
 ### 📱 Мобильная версия
 ![Mobile Screenshot](screenshots/mobile-main.png)
