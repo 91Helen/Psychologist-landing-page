@@ -105,6 +105,11 @@ This is a **fully functional, production-ready website** that works seamlessly o
 - **Git/GitHub** — version control  
 
 ---
+## 🚀 Live Demo
+
+👉 [Check out the website](https://psycholog-aliya.kz/)  
+
+---
 
 ## ⚙️ Installation & Setup
 
