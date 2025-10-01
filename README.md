@@ -41,7 +41,11 @@
 
 
 ---
+## 🚀 Демо
 
+👉 [Перейти на сайт](https://psycholog-aliya.kz/)  
+
+---
 
 ## ⚙️ Установка и запуск
 
@@ -49,11 +53,11 @@
    ```bash
    git clone https://github.com/your-username/project-name.git
    ```
-   
- 2.  Перейдите в папку проекта:
-   ```bash
-cd project-name
-```
+
+2.  Перейдите в папку проекта:
+    ```bash
+    cd project-name
+    ```
 
 3. Запустите локально:
 
@@ -64,3 +68,64 @@ cd project-name
 ## ✨ Автор
 
 С ❤️ Front-end разработчик  **Елена Филатова**  
+
+---
+
+
+
+
+ # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/e219b088-ebf8-49ef-901e-5a41e68b1b75" /> Psychologist Landing Page — English version
+
+A fully responsive **landing page for a psychologist**, featuring modern design, smooth animations, and a Swiper.js slider.  
+This is a **fully functional, production-ready website** that works seamlessly on all devices and is optimized for **search engines** — it already appears well in search results.  
+
+---
+
+## ✨ Features
+
+- 📱 **Responsive design** (desktop / tablet / mobile)  
+- 🎬 **Animations with GSAP** for smooth and engaging effects  
+- 📑 **Smooth scrolling** between sections  
+- 🎡 **Swiper.js slider** for testimonials and content presentation  
+- 🍔 **Mobile-friendly burger menu**  
+- 🧠 Tailored design for a **psychologist’s personal website**  
+- ⚡ **Fully functional and live** website  
+- 🔍 **SEO-optimized** (appears in search results)  
+- 🚀 Lightweight and optimized performance  
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5** — semantic structure  
+- **CSS3 (Flexbox, Media Queries)** — responsive layout  
+- **Vanilla JavaScript** — interactivity  
+- **Swiper.js** — slider for reviews and visuals  
+- **GSAP** — animations for a modern look  
+- **Git/GitHub** — version control  
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/project-name.git
+   ```
+   
+2. Open the project folder:
+    ```bash
+   cd Psychologist-landing-page
+   ```
+
+3. Run locally:
+
+Open index.html directly in your browser
+
+Or use Live Server in VS Code for convenient development
+
+---
+
+## ✨ Author
+
+With ❤️ by Elena Filatova, Front-end Developer
